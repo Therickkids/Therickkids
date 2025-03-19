@@ -8,12 +8,11 @@
 ###
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1000&height=150&lines=HOLA+COMO+ESTAS?;MI+NOMBRE+ES+JULIAN+MANRIQUE+CUERVO..;Back-End+Front-End+Developer;Amante+A+La+Tecnologia;Y+Los+Negocios+Y+Finanzas;Quiero+Aprender;Y+Aportar+A+Tu+Equipo;..<3" </a>
-  Hola Como Estas?
   
 </p>
 
 
-<p align="left">Mi nombre es Julian Manrique Cuervo<br>Me encanta la tecnologia y el software, ademas uno de mis fuertes tambien son las finanzas y los negocios, me gusta solucinar problemas y hacer mas efeciente todo lo que me pongan en las manos.</p>
+<p align="left"><br>Me gusta solucinar problemas y hacer mas efeciente todo lo que me pongan en las manos. Espero poder estar en tu equipo..</p>
 
 ###
 
