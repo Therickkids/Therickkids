@@ -7,7 +7,11 @@
 
 ###
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1000&height=150&lines=HOLA+COMO+ESTAS?;MI+NOMBRE+ES+JULIAN+MANRIQUE+CUERVO..;Back-End+Front-End+Developer;Amante+A+La+Tecnologia;Y+Los+Negocios+Y+Finanzas;Quiero+Aprender;Y+Aportar+A+Tu+Equipo;..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1000&height=150&lines=HOLA+COMO+ESTAS?;MI+NOMBRE+ES+JULIAN+MANRIQUE+CUERVO..;Back-End+Front-End+Developer;Amante+A+La+Tecnologia;Y+Los+Negocios+Y+Finanzas;Quiero+Aprender;Y+Aportar+A+Tu+Equipo;..<3"  <h1 align="left">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl1emE1Zm1kaWtlanV3amsyYTF5MjVpcnFpczM4MDllMDR5a3ppOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/g5TrFfDUEn3PkksZXa/giphy.gif" alt="Imagen" width="50" height="50" />
+  Hola Como Estas?
+</h1>
+></a>
 </p>
 
 
