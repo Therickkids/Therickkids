@@ -12,7 +12,7 @@
 </p>
 
 
-<p align="left"><br>Me gusta solucinar problemas y hacer mas efeciente todo lo que me pongan en las manos. Espero poder estar en tu equipo..</p>
+<p align="left"><br>"Me apasiona solucionar problemas y hacer que todo funcione de manera más eficiente. Siempre busco optimizar procesos, encontrar nuevas soluciones y mejorar el rendimiento de las herramientas o sistemas en los que trabajo. Mi enfoque siempre está en aportar valor, hacer que cada proyecto sea más ágil y lograr que el equipo alcance sus objetivos de manera más efectiva. Estoy seguro de que mi capacidad para enfrentar desafíos y mi compromiso con la mejora continua serán un gran aporte para tu equipo."</p>
 
 ###
 
