@@ -3,7 +3,7 @@
 ###
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=HOLA+COMO+ESTAS?;MI+NOMBRE+ES+JULIAN+MANRIQUE+CUERVO..;Back-End+Front-End+Developer;Amante+A+La+Tecnologia;Y+Los+Negocios+Y+Finanzas></a>
-                                                                <iframe src="https://giphy.com/embed/g5TrFfDUEn3PkksZXa" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-g5TrFfDUEn3PkksZXa">via GIPHY</a></p>
+                                                                
 </p>
 
 
