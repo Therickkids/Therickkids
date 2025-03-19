@@ -2,7 +2,7 @@
 
 ###
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola+O+Mi nombre es Julian Manrique Cuervo+ COMO TE ENCUENTRAS?..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <p align="left">Mi nombre es Julian Manrique Cuervo<br>Me encanta la tecnologia y el software, ademas uno de mis fuertes tambien son las finanzas y los negocios, me gusta solucinar problemas y hacer mas efeciente todo lo que me pongan en las manos.</p>
