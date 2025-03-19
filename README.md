@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Actualmente estoy estuidiando DESARROLLO DE SOFTWARE<br>📚 <br>🎯 Mi meta en este 2025 es aportar a una buena empresa con mi conocimiento y ganas de aprender<br>🎲 Dato Curioso: Me gusta hacer negocios y para eso soy muy bueno. <br>Realmente no se debe vender un producto, se debe vender la  solución.</p>
+<p align="left">✨ Actualmente estoy estuidiando DESARROLLO DE SOFTWARE<br><br>🎯 Mi meta en este 2025 es aportar a una buena empresa con mi conocimiento y ganas de aprender<br>🎲 Dato Curioso: Me gusta hacer negocios y para eso soy muy bueno. <br>Realmente no se debe vender un producto, se debe vender la  solución.</p>
 
 ###
 
